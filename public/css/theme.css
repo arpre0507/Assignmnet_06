@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;1,700&family=Pacifico&display=swap');
 
 .bg-light {
-  background-color: #c1e1c1 !important; /* Light green */
+  background-color: #d3d3e6 !important;
   box-shadow: inset;
 }
 
 .navbar.navbar-light .navbar-brand {
-  color: #3a874f; /* Darker green */
+  color: #303461;
   font-size: 20px;
   font-weight: bold;
   font-style: italic;
@@ -23,15 +23,9 @@
 }
 
 .card-header {
-  background-color: #2e6a39; /* Deeper green */
+  background-color: #0d6efd;
   color: #fff;
 }
-
-body {
-  background-color: #76b09c; /* Medium green */
-  background-image: linear-gradient(160deg, #76b09c 0%, #2e6a39 100%); /* Gradient of green */
-}
-
 
 body {
   background-color: #0093e9;
